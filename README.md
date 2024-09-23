@@ -1,3 +1,16 @@
+coreboot SOLVER Edition
+=======================
+
+This project is simply meant to change the boot logo from the nifty lil'
+bunny to the Absolute Solver con from Murder Drones!
+It was relatively easy, and I am not making any other versions unless
+I think of another good one to use for Murder Drones.
+Please enjoy it if you do use it! 
+Now here is the README from the original Github Repo that I forked.
+(I'm not liscensing it because I don't understand that stuff, and am
+not gonna put in any extra time in it right now, but maybe in the 
+future.)
+
 coreboot README
 ===============
 
